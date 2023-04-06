@@ -1,0 +1,80 @@
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\appsettings.json
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\SchoolManagment.API.exe
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\SchoolManagment.API.deps.json
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\SchoolManagment.API.runtimeconfig.json
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\SchoolManagment.API.runtimeconfig.dev.json
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\SchoolManagment.API.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\ref\SchoolManagment.API.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\SchoolManagment.API.pdb
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.AssemblyInfoInputs.cache
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.AssemblyInfo.cs
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.csproj.CoreCompileInputs.cache
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\staticwebassets\SchoolManagment.API.StaticWebAssets.Manifest.cache
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\staticwebassets\SchoolManagment.API.StaticWebAssets.xml
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\scopedcss\bundle\SchoolManagment.API.styles.css
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.RazorTargetAssemblyInfo.cache
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.csproj.CopyComplete
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\ref\SchoolManagment.API.dll
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.pdb
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.genruntimeconfig.cache
+C:\Users\Imcrinox\source\repos\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.csproj.AssemblyReference.cache
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\appsettings.json
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\SchoolManagment.API.exe
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\SchoolManagment.API.deps.json
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\SchoolManagment.API.runtimeconfig.json
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\SchoolManagment.API.runtimeconfig.dev.json
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\SchoolManagment.API.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\ref\SchoolManagment.API.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\SchoolManagment.API.pdb
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.AssemblyInfoInputs.cache
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.AssemblyInfo.cs
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.csproj.CoreCompileInputs.cache
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\staticwebassets\SchoolManagment.API.StaticWebAssets.Manifest.cache
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\staticwebassets\SchoolManagment.API.StaticWebAssets.xml
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\scopedcss\bundle\SchoolManagment.API.styles.css
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.RazorTargetAssemblyInfo.cache
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.csproj.CopyComplete
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\ref\SchoolManagment.API.dll
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.pdb
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.genruntimeconfig.cache
+C:\Users\Imcrinox\Desktop\School Managament\SchoolManagment.API\SchoolManagment.API\obj\Debug\net5.0\SchoolManagment.API.csproj.AssemblyReference.cache
